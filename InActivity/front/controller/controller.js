@@ -4,7 +4,7 @@ window.onload = function () {
 
     function registarRecluso(){
         var data = {};
-        data.nome = "abc";
+        data.nome = "website test";
         data.numero = "123"
         //data.birthdate = "25/01/1997";
         //data.date = "17/03/2020";
